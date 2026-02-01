@@ -71,9 +71,9 @@ The **ServerServicesInstall.sh** script automates the installation and configura
 
 1. **Download the script:**
    ```bash
-   wget https://raw.githubusercontent.com/your-repo/ServerServicesInstall.sh
+   wget https://github.com/ViktorKopper/services-linux-server.git
    # or
-   curl -O https://raw.githubusercontent.com/your-repo/ServerServicesInstall.sh
+   curl -O https://github.com/ViktorKopper/services-linux-server.git
    ```
 
 2. **Make it executable:**
